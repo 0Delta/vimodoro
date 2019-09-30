@@ -13,9 +13,17 @@ Vimodoro is pomodoro timer for Vim.
 
 ```
 # with dein
-[[plugins]
+[[plugins]]
 repo = '0Delta/vimodoro'
+
+# with NeoBundle
+NeoBundle "0Delta/vimodoro"
 ```
+
+## TODO
+
+ * configurable timer
+ * config with gui
 
 ## License
 
