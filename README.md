@@ -4,10 +4,10 @@ Vimodoro is pomodoro timer for Vim.
 
 ## Usage
 
- * `:Pomodoro`  
+* `:Pomodoro`
    Start pomodoro timer.
- * `:PomodoroStart`  
-   Stop pomodoro timer. 
+* `:PomodoroStop`
+   Stop pomodoro timer.
 
 ## Installation
 
